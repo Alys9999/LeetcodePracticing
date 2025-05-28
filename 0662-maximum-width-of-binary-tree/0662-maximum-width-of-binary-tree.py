@@ -15,11 +15,12 @@ class Solution:
 
             for _ in range(len(q)):
                 cur, idx = q.popleft()
-                idx -= fidx
+                
                 if cur.left:
                     q.append((cur.left, idx*2))
 
                 if cur.right:
                     q.append((cur.right, idx*2 + 1))
+                idx -= fidx
                 res = max(res, idx+1)
         return res
