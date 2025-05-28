@@ -5,12 +5,14 @@ All the leetcode problems I solved for practicing, with notes for me.
 ## Tree
 |  |
 | ------- |
+| [0662-maximum-width-of-binary-tree](https://github.com/Alys9999/LeetcodePracticing/tree/master/0662-maximum-width-of-binary-tree) |
 | [0955-complete-binary-tree-inserter](https://github.com/Alys9999/LeetcodePracticing/tree/master/0955-complete-binary-tree-inserter) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Alys9999/LeetcodePracticing/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Alys9999/LeetcodePracticing/tree/master/0210-course-schedule-ii) |
+| [0662-maximum-width-of-binary-tree](https://github.com/Alys9999/LeetcodePracticing/tree/master/0662-maximum-width-of-binary-tree) |
 | [0753-open-the-lock](https://github.com/Alys9999/LeetcodePracticing/tree/master/0753-open-the-lock) |
 | [0787-sliding-puzzle](https://github.com/Alys9999/LeetcodePracticing/tree/master/0787-sliding-puzzle) |
 | [0813-all-paths-from-source-to-target](https://github.com/Alys9999/LeetcodePracticing/tree/master/0813-all-paths-from-source-to-target) |
@@ -22,6 +24,7 @@ All the leetcode problems I solved for practicing, with notes for me.
 ## Binary Tree
 |  |
 | ------- |
+| [0662-maximum-width-of-binary-tree](https://github.com/Alys9999/LeetcodePracticing/tree/master/0662-maximum-width-of-binary-tree) |
 | [0955-complete-binary-tree-inserter](https://github.com/Alys9999/LeetcodePracticing/tree/master/0955-complete-binary-tree-inserter) |
 ## Array
 |  |
@@ -58,6 +61,7 @@ All the leetcode problems I solved for practicing, with notes for me.
 | ------- |
 | [0207-course-schedule](https://github.com/Alys9999/LeetcodePracticing/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Alys9999/LeetcodePracticing/tree/master/0210-course-schedule-ii) |
+| [0662-maximum-width-of-binary-tree](https://github.com/Alys9999/LeetcodePracticing/tree/master/0662-maximum-width-of-binary-tree) |
 | [0813-all-paths-from-source-to-target](https://github.com/Alys9999/LeetcodePracticing/tree/master/0813-all-paths-from-source-to-target) |
 ## Graph
 |  |
