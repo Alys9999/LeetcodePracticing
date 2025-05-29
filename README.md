@@ -21,6 +21,7 @@ All the leetcode problems I solved for practicing, with notes for me.
 | [0871-keys-and-rooms](https://github.com/Alys9999/LeetcodePracticing/tree/master/0871-keys-and-rooms) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Alys9999/LeetcodePracticing/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0955-complete-binary-tree-inserter](https://github.com/Alys9999/LeetcodePracticing/tree/master/0955-complete-binary-tree-inserter) |
+| [1428-jump-game-iii](https://github.com/Alys9999/LeetcodePracticing/tree/master/1428-jump-game-iii) |
 ## Design
 |  |
 | ------- |
@@ -36,6 +37,7 @@ All the leetcode problems I solved for practicing, with notes for me.
 | ------- |
 | [0753-open-the-lock](https://github.com/Alys9999/LeetcodePracticing/tree/master/0753-open-the-lock) |
 | [0787-sliding-puzzle](https://github.com/Alys9999/LeetcodePracticing/tree/master/0787-sliding-puzzle) |
+| [1428-jump-game-iii](https://github.com/Alys9999/LeetcodePracticing/tree/master/1428-jump-game-iii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -72,6 +74,7 @@ All the leetcode problems I solved for practicing, with notes for me.
 | [0813-all-paths-from-source-to-target](https://github.com/Alys9999/LeetcodePracticing/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/Alys9999/LeetcodePracticing/tree/master/0871-keys-and-rooms) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Alys9999/LeetcodePracticing/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [1428-jump-game-iii](https://github.com/Alys9999/LeetcodePracticing/tree/master/1428-jump-game-iii) |
 ## Graph
 |  |
 | ------- |
