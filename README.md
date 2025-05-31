@@ -106,4 +106,8 @@ All the leetcode problems I solved for practicing, with notes for me.
 |  |
 | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Alys9999/LeetcodePracticing/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+## Math
+|  |
+| ------- |
+| [0263-ugly-number](https://github.com/Alys9999/LeetcodePracticing/tree/master/0263-ugly-number) |
 <!---LeetCode Topics End-->
