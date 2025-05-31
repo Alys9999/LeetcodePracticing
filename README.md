@@ -38,6 +38,7 @@ All the leetcode problems I solved for practicing, with notes for me.
 ## Array
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Alys9999/LeetcodePracticing/tree/master/0204-count-primes) |
 | [0753-open-the-lock](https://github.com/Alys9999/LeetcodePracticing/tree/master/0753-open-the-lock) |
 | [0787-sliding-puzzle](https://github.com/Alys9999/LeetcodePracticing/tree/master/0787-sliding-puzzle) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Alys9999/LeetcodePracticing/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -109,5 +110,14 @@ All the leetcode problems I solved for practicing, with notes for me.
 ## Math
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Alys9999/LeetcodePracticing/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/Alys9999/LeetcodePracticing/tree/master/0263-ugly-number) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Alys9999/LeetcodePracticing/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Alys9999/LeetcodePracticing/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
