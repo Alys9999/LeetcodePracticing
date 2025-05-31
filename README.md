@@ -47,6 +47,7 @@ All the leetcode problems I solved for practicing, with notes for me.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/Alys9999/LeetcodePracticing/tree/master/0264-ugly-number-ii) |
 | [0787-sliding-puzzle](https://github.com/Alys9999/LeetcodePracticing/tree/master/0787-sliding-puzzle) |
 ## Backtracking
 |  |
@@ -66,6 +67,7 @@ All the leetcode problems I solved for practicing, with notes for me.
 ## Hash Table
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/Alys9999/LeetcodePracticing/tree/master/0264-ugly-number-ii) |
 | [0433-minimum-genetic-mutation](https://github.com/Alys9999/LeetcodePracticing/tree/master/0433-minimum-genetic-mutation) |
 | [0753-open-the-lock](https://github.com/Alys9999/LeetcodePracticing/tree/master/0753-open-the-lock) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Alys9999/LeetcodePracticing/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -112,6 +114,7 @@ All the leetcode problems I solved for practicing, with notes for me.
 | ------- |
 | [0204-count-primes](https://github.com/Alys9999/LeetcodePracticing/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/Alys9999/LeetcodePracticing/tree/master/0263-ugly-number) |
+| [0264-ugly-number-ii](https://github.com/Alys9999/LeetcodePracticing/tree/master/0264-ugly-number-ii) |
 ## Enumeration
 |  |
 | ------- |
@@ -120,4 +123,8 @@ All the leetcode problems I solved for practicing, with notes for me.
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Alys9999/LeetcodePracticing/tree/master/0204-count-primes) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0264-ugly-number-ii](https://github.com/Alys9999/LeetcodePracticing/tree/master/0264-ugly-number-ii) |
 <!---LeetCode Topics End-->
