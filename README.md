@@ -98,4 +98,12 @@ All the leetcode problems I solved for practicing, with notes for me.
 | [0207-course-schedule](https://github.com/Alys9999/LeetcodePracticing/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Alys9999/LeetcodePracticing/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/Alys9999/LeetcodePracticing/tree/master/0310-minimum-height-trees) |
+## Linked List
+|  |
+| ------- |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Alys9999/LeetcodePracticing/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Alys9999/LeetcodePracticing/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 <!---LeetCode Topics End-->
