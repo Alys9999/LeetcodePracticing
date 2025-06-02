@@ -112,6 +112,7 @@ All the leetcode problems I solved for practicing, with notes for me.
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/Alys9999/LeetcodePracticing/tree/master/0025-reverse-nodes-in-k-group) |
+| [0061-rotate-list](https://github.com/Alys9999/LeetcodePracticing/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Alys9999/LeetcodePracticing/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0092-reverse-linked-list-ii](https://github.com/Alys9999/LeetcodePracticing/tree/master/0092-reverse-linked-list-ii) |
 | [0234-palindrome-linked-list](https://github.com/Alys9999/LeetcodePracticing/tree/master/0234-palindrome-linked-list) |
@@ -120,6 +121,7 @@ All the leetcode problems I solved for practicing, with notes for me.
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Alys9999/LeetcodePracticing/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Alys9999/LeetcodePracticing/tree/master/0027-remove-element) |
+| [0061-rotate-list](https://github.com/Alys9999/LeetcodePracticing/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Alys9999/LeetcodePracticing/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Alys9999/LeetcodePracticing/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Alys9999/LeetcodePracticing/tree/master/0167-two-sum-ii-input-array-is-sorted) |
