@@ -40,6 +40,7 @@ All the leetcode problems I solved for practicing, with notes for me.
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Alys9999/LeetcodePracticing/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Alys9999/LeetcodePracticing/tree/master/0027-remove-element) |
+| [0048-rotate-image](https://github.com/Alys9999/LeetcodePracticing/tree/master/0048-rotate-image) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Alys9999/LeetcodePracticing/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0204-count-primes](https://github.com/Alys9999/LeetcodePracticing/tree/master/0204-count-primes) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Alys9999/LeetcodePracticing/tree/master/0373-find-k-pairs-with-smallest-sums) |
@@ -66,6 +67,7 @@ All the leetcode problems I solved for practicing, with notes for me.
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Alys9999/LeetcodePracticing/tree/master/0048-rotate-image) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Alys9999/LeetcodePracticing/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0787-sliding-puzzle](https://github.com/Alys9999/LeetcodePracticing/tree/master/0787-sliding-puzzle) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Alys9999/LeetcodePracticing/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -129,6 +131,7 @@ All the leetcode problems I solved for practicing, with notes for me.
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Alys9999/LeetcodePracticing/tree/master/0048-rotate-image) |
 | [0204-count-primes](https://github.com/Alys9999/LeetcodePracticing/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/Alys9999/LeetcodePracticing/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/Alys9999/LeetcodePracticing/tree/master/0264-ugly-number-ii) |
