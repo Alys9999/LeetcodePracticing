@@ -6,7 +6,7 @@ class Solution:
         while right < len(nums):
             cur *= nums[right]
             right += 1
-            while cur >= k and left < right:
+            while left < right and cur >= k:
                 cur //= nums[left]
                 left += 1
             res += right - left
