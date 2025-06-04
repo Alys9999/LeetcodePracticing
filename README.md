@@ -50,6 +50,7 @@ All the leetcode problems I solved for practicing, with notes for me.
 | [0787-sliding-puzzle](https://github.com/Alys9999/LeetcodePracticing/tree/master/0787-sliding-puzzle) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Alys9999/LeetcodePracticing/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1428-jump-game-iii](https://github.com/Alys9999/LeetcodePracticing/tree/master/1428-jump-game-iii) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Alys9999/LeetcodePracticing/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Alys9999/LeetcodePracticing/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 ## Dynamic Programming
 |  |
@@ -80,6 +81,7 @@ All the leetcode problems I solved for practicing, with notes for me.
 | [0433-minimum-genetic-mutation](https://github.com/Alys9999/LeetcodePracticing/tree/master/0433-minimum-genetic-mutation) |
 | [0753-open-the-lock](https://github.com/Alys9999/LeetcodePracticing/tree/master/0753-open-the-lock) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Alys9999/LeetcodePracticing/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Alys9999/LeetcodePracticing/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 ## String
 |  |
 | ------- |
@@ -156,6 +158,7 @@ All the leetcode problems I solved for practicing, with notes for me.
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Alys9999/LeetcodePracticing/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Alys9999/LeetcodePracticing/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Alys9999/LeetcodePracticing/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 ## Sorting
 |  |
 | ------- |
@@ -169,4 +172,12 @@ All the leetcode problems I solved for practicing, with notes for me.
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/Alys9999/LeetcodePracticing/tree/master/0025-reverse-nodes-in-k-group) |
 | [0234-palindrome-linked-list](https://github.com/Alys9999/LeetcodePracticing/tree/master/0234-palindrome-linked-list) |
+## Sliding Window
+|  |
+| ------- |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Alys9999/LeetcodePracticing/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
+## Prefix Sum
+|  |
+| ------- |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Alys9999/LeetcodePracticing/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 <!---LeetCode Topics End-->
