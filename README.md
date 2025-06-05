@@ -44,6 +44,7 @@ All the leetcode problems I solved for practicing, with notes for me.
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Alys9999/LeetcodePracticing/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Alys9999/LeetcodePracticing/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0204-count-primes](https://github.com/Alys9999/LeetcodePracticing/tree/master/0204-count-primes) |
+| [0220-contains-duplicate-iii](https://github.com/Alys9999/LeetcodePracticing/tree/master/0220-contains-duplicate-iii) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Alys9999/LeetcodePracticing/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Alys9999/LeetcodePracticing/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0713-subarray-product-less-than-k](https://github.com/Alys9999/LeetcodePracticing/tree/master/0713-subarray-product-less-than-k) |
@@ -168,6 +169,7 @@ All the leetcode problems I solved for practicing, with notes for me.
 ## Sorting
 |  |
 | ------- |
+| [0220-contains-duplicate-iii](https://github.com/Alys9999/LeetcodePracticing/tree/master/0220-contains-duplicate-iii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Alys9999/LeetcodePracticing/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Stack
 |  |
@@ -181,6 +183,7 @@ All the leetcode problems I solved for practicing, with notes for me.
 ## Sliding Window
 |  |
 | ------- |
+| [0220-contains-duplicate-iii](https://github.com/Alys9999/LeetcodePracticing/tree/master/0220-contains-duplicate-iii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Alys9999/LeetcodePracticing/tree/master/0424-longest-repeating-character-replacement) |
 | [0713-subarray-product-less-than-k](https://github.com/Alys9999/LeetcodePracticing/tree/master/0713-subarray-product-less-than-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/Alys9999/LeetcodePracticing/tree/master/1046-max-consecutive-ones-iii) |
@@ -191,4 +194,12 @@ All the leetcode problems I solved for practicing, with notes for me.
 | [0713-subarray-product-less-than-k](https://github.com/Alys9999/LeetcodePracticing/tree/master/0713-subarray-product-less-than-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/Alys9999/LeetcodePracticing/tree/master/1046-max-consecutive-ones-iii) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Alys9999/LeetcodePracticing/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
+## Bucket Sort
+|  |
+| ------- |
+| [0220-contains-duplicate-iii](https://github.com/Alys9999/LeetcodePracticing/tree/master/0220-contains-duplicate-iii) |
+## Ordered Set
+|  |
+| ------- |
+| [0220-contains-duplicate-iii](https://github.com/Alys9999/LeetcodePracticing/tree/master/0220-contains-duplicate-iii) |
 <!---LeetCode Topics End-->
