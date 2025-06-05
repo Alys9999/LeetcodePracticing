@@ -1,15 +1,20 @@
 class Solution:
     def characterReplacement(self, s: str, k: int) -> int:
-        longest = 0
-        count = dict()
         left = right = 0
-        maxf= 0
+        windowCount = [0] * 26
+        maxCount = 0
+        res = 0
+
         while right < len(s):
-            count[s[right]] = 1+count.get(s[right], 0)
-            maxf = max(maxf, count[s[right]])
-            while (right - left + 1 - maxf) > k:
-                count[s[left]] -= 1
+            c = ord(s[right]) - ord('A')
+            windowCount[c] += 1
+            maxCount = max(maxCount, windowCount[c])
+            right += 1
+                
+            while (right - left - maxCount > k):
+                windowCount[ord(s[left])- ord('A')] -= 1
                 left += 1
-            longest = max(longest, right - left + 1)
-            right+= 1
-        return longest
+            
+            res = max(res, right - left)
+        return res
+                
