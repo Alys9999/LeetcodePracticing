@@ -44,6 +44,7 @@ All the leetcode problems I solved for practicing, with notes for me.
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Alys9999/LeetcodePracticing/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Alys9999/LeetcodePracticing/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0204-count-primes](https://github.com/Alys9999/LeetcodePracticing/tree/master/0204-count-primes) |
+| [0209-minimum-size-subarray-sum](https://github.com/Alys9999/LeetcodePracticing/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Alys9999/LeetcodePracticing/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/Alys9999/LeetcodePracticing/tree/master/0220-contains-duplicate-iii) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Alys9999/LeetcodePracticing/tree/master/0373-find-k-pairs-with-smallest-sums) |
@@ -164,6 +165,7 @@ All the leetcode problems I solved for practicing, with notes for me.
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Alys9999/LeetcodePracticing/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/Alys9999/LeetcodePracticing/tree/master/0209-minimum-size-subarray-sum) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Alys9999/LeetcodePracticing/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0713-subarray-product-less-than-k](https://github.com/Alys9999/LeetcodePracticing/tree/master/0713-subarray-product-less-than-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/Alys9999/LeetcodePracticing/tree/master/1046-max-consecutive-ones-iii) |
@@ -185,6 +187,7 @@ All the leetcode problems I solved for practicing, with notes for me.
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Alys9999/LeetcodePracticing/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Alys9999/LeetcodePracticing/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/Alys9999/LeetcodePracticing/tree/master/0220-contains-duplicate-iii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Alys9999/LeetcodePracticing/tree/master/0424-longest-repeating-character-replacement) |
@@ -194,6 +197,7 @@ All the leetcode problems I solved for practicing, with notes for me.
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Alys9999/LeetcodePracticing/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/Alys9999/LeetcodePracticing/tree/master/0713-subarray-product-less-than-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/Alys9999/LeetcodePracticing/tree/master/1046-max-consecutive-ones-iii) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Alys9999/LeetcodePracticing/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
