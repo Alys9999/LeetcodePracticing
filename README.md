@@ -44,6 +44,7 @@ All the leetcode problems I solved for practicing, with notes for me.
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Alys9999/LeetcodePracticing/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Alys9999/LeetcodePracticing/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0204-count-primes](https://github.com/Alys9999/LeetcodePracticing/tree/master/0204-count-primes) |
+| [0219-contains-duplicate-ii](https://github.com/Alys9999/LeetcodePracticing/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/Alys9999/LeetcodePracticing/tree/master/0220-contains-duplicate-iii) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Alys9999/LeetcodePracticing/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Alys9999/LeetcodePracticing/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -80,6 +81,7 @@ All the leetcode problems I solved for practicing, with notes for me.
 ## Hash Table
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/Alys9999/LeetcodePracticing/tree/master/0219-contains-duplicate-ii) |
 | [0264-ugly-number-ii](https://github.com/Alys9999/LeetcodePracticing/tree/master/0264-ugly-number-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Alys9999/LeetcodePracticing/tree/master/0424-longest-repeating-character-replacement) |
 | [0433-minimum-genetic-mutation](https://github.com/Alys9999/LeetcodePracticing/tree/master/0433-minimum-genetic-mutation) |
@@ -183,6 +185,7 @@ All the leetcode problems I solved for practicing, with notes for me.
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/Alys9999/LeetcodePracticing/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/Alys9999/LeetcodePracticing/tree/master/0220-contains-duplicate-iii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Alys9999/LeetcodePracticing/tree/master/0424-longest-repeating-character-replacement) |
 | [0713-subarray-product-less-than-k](https://github.com/Alys9999/LeetcodePracticing/tree/master/0713-subarray-product-less-than-k) |
