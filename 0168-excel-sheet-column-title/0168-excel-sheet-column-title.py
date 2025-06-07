@@ -3,7 +3,7 @@ class Solution:
         res = deque()
         while columnNumber:
             columnNumber -= 1
-            i = chr(columnNumber%26 + ord('A'))
+            i = chr(columnNumber%26 + 65)
             res.appendleft(i)
             columnNumber = columnNumber // 26 
         return ''.join(res)
