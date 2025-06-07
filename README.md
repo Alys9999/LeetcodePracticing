@@ -95,6 +95,7 @@ All the leetcode problems I solved for practicing, with notes for me.
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Alys9999/LeetcodePracticing/tree/master/0151-reverse-words-in-a-string) |
+| [0168-excel-sheet-column-title](https://github.com/Alys9999/LeetcodePracticing/tree/master/0168-excel-sheet-column-title) |
 | [0424-longest-repeating-character-replacement](https://github.com/Alys9999/LeetcodePracticing/tree/master/0424-longest-repeating-character-replacement) |
 | [0433-minimum-genetic-mutation](https://github.com/Alys9999/LeetcodePracticing/tree/master/0433-minimum-genetic-mutation) |
 | [0753-open-the-lock](https://github.com/Alys9999/LeetcodePracticing/tree/master/0753-open-the-lock) |
@@ -146,6 +147,7 @@ All the leetcode problems I solved for practicing, with notes for me.
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Alys9999/LeetcodePracticing/tree/master/0048-rotate-image) |
+| [0168-excel-sheet-column-title](https://github.com/Alys9999/LeetcodePracticing/tree/master/0168-excel-sheet-column-title) |
 | [0204-count-primes](https://github.com/Alys9999/LeetcodePracticing/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/Alys9999/LeetcodePracticing/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/Alys9999/LeetcodePracticing/tree/master/0264-ugly-number-ii) |
