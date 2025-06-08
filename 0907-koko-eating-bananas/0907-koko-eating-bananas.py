@@ -1,22 +1,21 @@
 class Solution:
     def minEatingSpeed(self, piles: List[int], h: int) -> int:
-        def sum_of_h(k: int) -> int:
-            s = 0
-            for pile in piles:
-                s += (ceil(pile/k))
-            return s
+        self.piles = piles
 
-        
         start = ceil(sum(piles)/h)
+        if self.sumWhenK(start) <= h:
+            return start
         end = max(piles)
-        if sum_of_h(start) <= h:
-            return start 
-        while start<=end:
-            mid = (start+end)//2
-            cur = sum_of_h(mid)
+        while start <= end:
+            mid = start + (end - start)//2
+            cur = self.sumWhenK(mid)
             if cur > h:
-                start = mid+1
+                start = mid + 1
             else:
-                end = mid-1
-
+                end = mid - 1
         return start
+    def sumWhenK(self, k):
+        s = 0
+        for pile in self.piles:
+            s += ceil(pile/k)
+        return s
