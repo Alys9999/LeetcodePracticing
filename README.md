@@ -50,6 +50,7 @@ All the leetcode problems I solved for practicing, with notes for me.
 | [0220-contains-duplicate-iii](https://github.com/Alys9999/LeetcodePracticing/tree/master/0220-contains-duplicate-iii) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Alys9999/LeetcodePracticing/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Alys9999/LeetcodePracticing/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0410-split-array-largest-sum](https://github.com/Alys9999/LeetcodePracticing/tree/master/0410-split-array-largest-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/Alys9999/LeetcodePracticing/tree/master/0713-subarray-product-less-than-k) |
 | [0753-open-the-lock](https://github.com/Alys9999/LeetcodePracticing/tree/master/0753-open-the-lock) |
 | [0787-sliding-puzzle](https://github.com/Alys9999/LeetcodePracticing/tree/master/0787-sliding-puzzle) |
@@ -65,6 +66,7 @@ All the leetcode problems I solved for practicing, with notes for me.
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/Alys9999/LeetcodePracticing/tree/master/0264-ugly-number-ii) |
+| [0410-split-array-largest-sum](https://github.com/Alys9999/LeetcodePracticing/tree/master/0410-split-array-largest-sum) |
 | [0787-sliding-puzzle](https://github.com/Alys9999/LeetcodePracticing/tree/master/0787-sliding-puzzle) |
 ## Backtracking
 |  |
@@ -174,6 +176,7 @@ All the leetcode problems I solved for practicing, with notes for me.
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Alys9999/LeetcodePracticing/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Alys9999/LeetcodePracticing/tree/master/0209-minimum-size-subarray-sum) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Alys9999/LeetcodePracticing/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0410-split-array-largest-sum](https://github.com/Alys9999/LeetcodePracticing/tree/master/0410-split-array-largest-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/Alys9999/LeetcodePracticing/tree/master/0713-subarray-product-less-than-k) |
 | [0792-binary-search](https://github.com/Alys9999/LeetcodePracticing/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Alys9999/LeetcodePracticing/tree/master/0907-koko-eating-bananas) |
@@ -208,6 +211,7 @@ All the leetcode problems I solved for practicing, with notes for me.
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Alys9999/LeetcodePracticing/tree/master/0209-minimum-size-subarray-sum) |
+| [0410-split-array-largest-sum](https://github.com/Alys9999/LeetcodePracticing/tree/master/0410-split-array-largest-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/Alys9999/LeetcodePracticing/tree/master/0713-subarray-product-less-than-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/Alys9999/LeetcodePracticing/tree/master/1046-max-consecutive-ones-iii) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Alys9999/LeetcodePracticing/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
@@ -219,4 +223,8 @@ All the leetcode problems I solved for practicing, with notes for me.
 |  |
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/Alys9999/LeetcodePracticing/tree/master/0220-contains-duplicate-iii) |
+## Greedy
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/Alys9999/LeetcodePracticing/tree/master/0410-split-array-largest-sum) |
 <!---LeetCode Topics End-->
