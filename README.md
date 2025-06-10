@@ -28,6 +28,7 @@ All the leetcode problems I solved for practicing, with notes for me.
 ## Design
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Alys9999/LeetcodePracticing/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/Alys9999/LeetcodePracticing/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Alys9999/LeetcodePracticing/tree/master/0304-range-sum-query-2d-immutable) |
 | [0955-complete-binary-tree-inserter](https://github.com/Alys9999/LeetcodePracticing/tree/master/0955-complete-binary-tree-inserter) |
@@ -201,6 +202,7 @@ All the leetcode problems I solved for practicing, with notes for me.
 ## Stack
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Alys9999/LeetcodePracticing/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Alys9999/LeetcodePracticing/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
@@ -246,4 +248,8 @@ All the leetcode problems I solved for practicing, with notes for me.
 |  |
 | ------- |
 | [1184-car-pooling](https://github.com/Alys9999/LeetcodePracticing/tree/master/1184-car-pooling) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Alys9999/LeetcodePracticing/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
