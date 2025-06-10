@@ -64,6 +64,7 @@ All the leetcode problems I solved for practicing, with notes for me.
 | [1046-max-consecutive-ones-iii](https://github.com/Alys9999/LeetcodePracticing/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Alys9999/LeetcodePracticing/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Alys9999/LeetcodePracticing/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1206-corporate-flight-bookings](https://github.com/Alys9999/LeetcodePracticing/tree/master/1206-corporate-flight-bookings) |
 | [1428-jump-game-iii](https://github.com/Alys9999/LeetcodePracticing/tree/master/1428-jump-game-iii) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Alys9999/LeetcodePracticing/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Alys9999/LeetcodePracticing/tree/master/2038-nearest-exit-from-entrance-in-maze) |
@@ -223,6 +224,7 @@ All the leetcode problems I solved for practicing, with notes for me.
 | [0410-split-array-largest-sum](https://github.com/Alys9999/LeetcodePracticing/tree/master/0410-split-array-largest-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/Alys9999/LeetcodePracticing/tree/master/0713-subarray-product-less-than-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/Alys9999/LeetcodePracticing/tree/master/1046-max-consecutive-ones-iii) |
+| [1206-corporate-flight-bookings](https://github.com/Alys9999/LeetcodePracticing/tree/master/1206-corporate-flight-bookings) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Alys9999/LeetcodePracticing/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 ## Bucket Sort
 |  |
