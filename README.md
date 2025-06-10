@@ -5,6 +5,7 @@ All the leetcode problems I solved for practicing, with notes for me.
 ## Tree
 |  |
 | ------- |
+| [0654-maximum-binary-tree](https://github.com/Alys9999/LeetcodePracticing/tree/master/0654-maximum-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Alys9999/LeetcodePracticing/tree/master/0662-maximum-width-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Alys9999/LeetcodePracticing/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0955-complete-binary-tree-inserter](https://github.com/Alys9999/LeetcodePracticing/tree/master/0955-complete-binary-tree-inserter) |
@@ -35,6 +36,7 @@ All the leetcode problems I solved for practicing, with notes for me.
 ## Binary Tree
 |  |
 | ------- |
+| [0654-maximum-binary-tree](https://github.com/Alys9999/LeetcodePracticing/tree/master/0654-maximum-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Alys9999/LeetcodePracticing/tree/master/0662-maximum-width-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Alys9999/LeetcodePracticing/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0955-complete-binary-tree-inserter](https://github.com/Alys9999/LeetcodePracticing/tree/master/0955-complete-binary-tree-inserter) |
@@ -57,6 +59,7 @@ All the leetcode problems I solved for practicing, with notes for me.
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Alys9999/LeetcodePracticing/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Alys9999/LeetcodePracticing/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/Alys9999/LeetcodePracticing/tree/master/0410-split-array-largest-sum) |
+| [0654-maximum-binary-tree](https://github.com/Alys9999/LeetcodePracticing/tree/master/0654-maximum-binary-tree) |
 | [0713-subarray-product-less-than-k](https://github.com/Alys9999/LeetcodePracticing/tree/master/0713-subarray-product-less-than-k) |
 | [0753-open-the-lock](https://github.com/Alys9999/LeetcodePracticing/tree/master/0753-open-the-lock) |
 | [0787-sliding-puzzle](https://github.com/Alys9999/LeetcodePracticing/tree/master/0787-sliding-puzzle) |
@@ -204,6 +207,7 @@ All the leetcode problems I solved for practicing, with notes for me.
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Alys9999/LeetcodePracticing/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Alys9999/LeetcodePracticing/tree/master/0234-palindrome-linked-list) |
+| [0654-maximum-binary-tree](https://github.com/Alys9999/LeetcodePracticing/tree/master/0654-maximum-binary-tree) |
 ## Recursion
 |  |
 | ------- |
@@ -252,4 +256,12 @@ All the leetcode problems I solved for practicing, with notes for me.
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Alys9999/LeetcodePracticing/tree/master/0232-implement-queue-using-stacks) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0654-maximum-binary-tree](https://github.com/Alys9999/LeetcodePracticing/tree/master/0654-maximum-binary-tree) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0654-maximum-binary-tree](https://github.com/Alys9999/LeetcodePracticing/tree/master/0654-maximum-binary-tree) |
 <!---LeetCode Topics End-->
