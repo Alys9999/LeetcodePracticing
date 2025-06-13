@@ -5,6 +5,7 @@ All the leetcode problems I solved for practicing, with notes for me.
 ## Tree
 |  |
 | ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Alys9999/LeetcodePracticing/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0654-maximum-binary-tree](https://github.com/Alys9999/LeetcodePracticing/tree/master/0654-maximum-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Alys9999/LeetcodePracticing/tree/master/0662-maximum-width-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Alys9999/LeetcodePracticing/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -15,6 +16,7 @@ All the leetcode problems I solved for practicing, with notes for me.
 | ------- |
 | [0207-course-schedule](https://github.com/Alys9999/LeetcodePracticing/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Alys9999/LeetcodePracticing/tree/master/0210-course-schedule-ii) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Alys9999/LeetcodePracticing/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/Alys9999/LeetcodePracticing/tree/master/0310-minimum-height-trees) |
 | [0433-minimum-genetic-mutation](https://github.com/Alys9999/LeetcodePracticing/tree/master/0433-minimum-genetic-mutation) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Alys9999/LeetcodePracticing/tree/master/0662-maximum-width-of-binary-tree) |
@@ -31,12 +33,14 @@ All the leetcode problems I solved for practicing, with notes for me.
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Alys9999/LeetcodePracticing/tree/master/0232-implement-queue-using-stacks) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Alys9999/LeetcodePracticing/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0303-range-sum-query-immutable](https://github.com/Alys9999/LeetcodePracticing/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Alys9999/LeetcodePracticing/tree/master/0304-range-sum-query-2d-immutable) |
 | [0955-complete-binary-tree-inserter](https://github.com/Alys9999/LeetcodePracticing/tree/master/0955-complete-binary-tree-inserter) |
 ## Binary Tree
 |  |
 | ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Alys9999/LeetcodePracticing/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0654-maximum-binary-tree](https://github.com/Alys9999/LeetcodePracticing/tree/master/0654-maximum-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Alys9999/LeetcodePracticing/tree/master/0662-maximum-width-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Alys9999/LeetcodePracticing/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -116,6 +120,7 @@ All the leetcode problems I solved for practicing, with notes for me.
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Alys9999/LeetcodePracticing/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/Alys9999/LeetcodePracticing/tree/master/0168-excel-sheet-column-title) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Alys9999/LeetcodePracticing/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/Alys9999/LeetcodePracticing/tree/master/0424-longest-repeating-character-replacement) |
 | [0433-minimum-genetic-mutation](https://github.com/Alys9999/LeetcodePracticing/tree/master/0433-minimum-genetic-mutation) |
 | [0753-open-the-lock](https://github.com/Alys9999/LeetcodePracticing/tree/master/0753-open-the-lock) |
@@ -124,6 +129,7 @@ All the leetcode problems I solved for practicing, with notes for me.
 | ------- |
 | [0207-course-schedule](https://github.com/Alys9999/LeetcodePracticing/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Alys9999/LeetcodePracticing/tree/master/0210-course-schedule-ii) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Alys9999/LeetcodePracticing/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/Alys9999/LeetcodePracticing/tree/master/0310-minimum-height-trees) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Alys9999/LeetcodePracticing/tree/master/0662-maximum-width-of-binary-tree) |
 | [0813-all-paths-from-source-to-target](https://github.com/Alys9999/LeetcodePracticing/tree/master/0813-all-paths-from-source-to-target) |
