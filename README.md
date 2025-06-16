@@ -11,6 +11,7 @@ All the leetcode problems I solved for practicing, with notes for me.
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Alys9999/LeetcodePracticing/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Alys9999/LeetcodePracticing/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0955-complete-binary-tree-inserter](https://github.com/Alys9999/LeetcodePracticing/tree/master/0955-complete-binary-tree-inserter) |
+| [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Alys9999/LeetcodePracticing/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -46,6 +47,7 @@ All the leetcode problems I solved for practicing, with notes for me.
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Alys9999/LeetcodePracticing/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Alys9999/LeetcodePracticing/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0955-complete-binary-tree-inserter](https://github.com/Alys9999/LeetcodePracticing/tree/master/0955-complete-binary-tree-inserter) |
+| [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Alys9999/LeetcodePracticing/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 ## Array
 |  |
 | ------- |
@@ -135,6 +137,7 @@ All the leetcode problems I solved for practicing, with notes for me.
 | [0813-all-paths-from-source-to-target](https://github.com/Alys9999/LeetcodePracticing/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/Alys9999/LeetcodePracticing/tree/master/0871-keys-and-rooms) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Alys9999/LeetcodePracticing/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Alys9999/LeetcodePracticing/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1428-jump-game-iii](https://github.com/Alys9999/LeetcodePracticing/tree/master/1428-jump-game-iii) |
 ## Graph
 |  |
