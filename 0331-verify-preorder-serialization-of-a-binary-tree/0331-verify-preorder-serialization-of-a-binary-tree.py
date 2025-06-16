@@ -2,7 +2,6 @@ class Solution:
     def isValidSerialization(self, preorder: str) -> bool:
         cur = 1
         preorder = split(',', preorder)
-        print(preorder)
         for node in preorder:
             if node == '#':
                 cur -= 1
