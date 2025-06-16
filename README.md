@@ -5,6 +5,7 @@ All the leetcode problems I solved for practicing, with notes for me.
 ## Tree
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Alys9999/LeetcodePracticing/tree/master/0222-count-complete-tree-nodes) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Alys9999/LeetcodePracticing/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Alys9999/LeetcodePracticing/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0654-maximum-binary-tree](https://github.com/Alys9999/LeetcodePracticing/tree/master/0654-maximum-binary-tree) |
@@ -43,6 +44,7 @@ All the leetcode problems I solved for practicing, with notes for me.
 ## Binary Tree
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Alys9999/LeetcodePracticing/tree/master/0222-count-complete-tree-nodes) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Alys9999/LeetcodePracticing/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Alys9999/LeetcodePracticing/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0654-maximum-binary-tree](https://github.com/Alys9999/LeetcodePracticing/tree/master/0654-maximum-binary-tree) |
@@ -208,6 +210,7 @@ All the leetcode problems I solved for practicing, with notes for me.
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Alys9999/LeetcodePracticing/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Alys9999/LeetcodePracticing/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Alys9999/LeetcodePracticing/tree/master/0209-minimum-size-subarray-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/Alys9999/LeetcodePracticing/tree/master/0222-count-complete-tree-nodes) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Alys9999/LeetcodePracticing/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/Alys9999/LeetcodePracticing/tree/master/0410-split-array-largest-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/Alys9999/LeetcodePracticing/tree/master/0713-subarray-product-less-than-k) |
@@ -289,4 +292,8 @@ All the leetcode problems I solved for practicing, with notes for me.
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Alys9999/LeetcodePracticing/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Alys9999/LeetcodePracticing/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
