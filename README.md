@@ -13,6 +13,7 @@ All the leetcode problems I solved for practicing, with notes for me.
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Alys9999/LeetcodePracticing/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Alys9999/LeetcodePracticing/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0955-complete-binary-tree-inserter](https://github.com/Alys9999/LeetcodePracticing/tree/master/0955-complete-binary-tree-inserter) |
+| [1030-smallest-string-starting-from-leaf](https://github.com/Alys9999/LeetcodePracticing/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Alys9999/LeetcodePracticing/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/Alys9999/LeetcodePracticing/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
 ## Breadth-First Search
@@ -52,6 +53,7 @@ All the leetcode problems I solved for practicing, with notes for me.
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Alys9999/LeetcodePracticing/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Alys9999/LeetcodePracticing/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0955-complete-binary-tree-inserter](https://github.com/Alys9999/LeetcodePracticing/tree/master/0955-complete-binary-tree-inserter) |
+| [1030-smallest-string-starting-from-leaf](https://github.com/Alys9999/LeetcodePracticing/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Alys9999/LeetcodePracticing/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/Alys9999/LeetcodePracticing/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
 ## Array
@@ -99,6 +101,7 @@ All the leetcode problems I solved for practicing, with notes for me.
 | ------- |
 | [0787-sliding-puzzle](https://github.com/Alys9999/LeetcodePracticing/tree/master/0787-sliding-puzzle) |
 | [0813-all-paths-from-source-to-target](https://github.com/Alys9999/LeetcodePracticing/tree/master/0813-all-paths-from-source-to-target) |
+| [1030-smallest-string-starting-from-leaf](https://github.com/Alys9999/LeetcodePracticing/tree/master/1030-smallest-string-starting-from-leaf) |
 ## Memoization
 |  |
 | ------- |
@@ -133,6 +136,7 @@ All the leetcode problems I solved for practicing, with notes for me.
 | [0424-longest-repeating-character-replacement](https://github.com/Alys9999/LeetcodePracticing/tree/master/0424-longest-repeating-character-replacement) |
 | [0433-minimum-genetic-mutation](https://github.com/Alys9999/LeetcodePracticing/tree/master/0433-minimum-genetic-mutation) |
 | [0753-open-the-lock](https://github.com/Alys9999/LeetcodePracticing/tree/master/0753-open-the-lock) |
+| [1030-smallest-string-starting-from-leaf](https://github.com/Alys9999/LeetcodePracticing/tree/master/1030-smallest-string-starting-from-leaf) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -145,6 +149,7 @@ All the leetcode problems I solved for practicing, with notes for me.
 | [0813-all-paths-from-source-to-target](https://github.com/Alys9999/LeetcodePracticing/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/Alys9999/LeetcodePracticing/tree/master/0871-keys-and-rooms) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Alys9999/LeetcodePracticing/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [1030-smallest-string-starting-from-leaf](https://github.com/Alys9999/LeetcodePracticing/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Alys9999/LeetcodePracticing/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1428-jump-game-iii](https://github.com/Alys9999/LeetcodePracticing/tree/master/1428-jump-game-iii) |
 ## Graph
