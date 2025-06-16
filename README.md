@@ -18,6 +18,7 @@ All the leetcode problems I solved for practicing, with notes for me.
 | [0955-complete-binary-tree-inserter](https://github.com/Alys9999/LeetcodePracticing/tree/master/0955-complete-binary-tree-inserter) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/Alys9999/LeetcodePracticing/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Alys9999/LeetcodePracticing/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
+| [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Alys9999/LeetcodePracticing/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/Alys9999/LeetcodePracticing/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
 ## Breadth-First Search
 |  |
@@ -37,6 +38,7 @@ All the leetcode problems I solved for practicing, with notes for me.
 | [0955-complete-binary-tree-inserter](https://github.com/Alys9999/LeetcodePracticing/tree/master/0955-complete-binary-tree-inserter) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Alys9999/LeetcodePracticing/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1428-jump-game-iii](https://github.com/Alys9999/LeetcodePracticing/tree/master/1428-jump-game-iii) |
+| [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Alys9999/LeetcodePracticing/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Alys9999/LeetcodePracticing/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 ## Design
 |  |
@@ -62,6 +64,7 @@ All the leetcode problems I solved for practicing, with notes for me.
 | [0955-complete-binary-tree-inserter](https://github.com/Alys9999/LeetcodePracticing/tree/master/0955-complete-binary-tree-inserter) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/Alys9999/LeetcodePracticing/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Alys9999/LeetcodePracticing/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
+| [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Alys9999/LeetcodePracticing/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/Alys9999/LeetcodePracticing/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
 ## Array
 |  |
@@ -164,6 +167,7 @@ All the leetcode problems I solved for practicing, with notes for me.
 | [1030-smallest-string-starting-from-leaf](https://github.com/Alys9999/LeetcodePracticing/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Alys9999/LeetcodePracticing/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1428-jump-game-iii](https://github.com/Alys9999/LeetcodePracticing/tree/master/1428-jump-game-iii) |
+| [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Alys9999/LeetcodePracticing/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
 ## Graph
 |  |
 | ------- |
@@ -313,4 +317,5 @@ All the leetcode problems I solved for practicing, with notes for me.
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Alys9999/LeetcodePracticing/tree/master/0222-count-complete-tree-nodes) |
+| [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Alys9999/LeetcodePracticing/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
 <!---LeetCode Topics End-->
