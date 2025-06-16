@@ -5,6 +5,7 @@ All the leetcode problems I solved for practicing, with notes for me.
 ## Tree
 |  |
 | ------- |
+| [0129-sum-root-to-leaf-numbers](https://github.com/Alys9999/LeetcodePracticing/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0222-count-complete-tree-nodes](https://github.com/Alys9999/LeetcodePracticing/tree/master/0222-count-complete-tree-nodes) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Alys9999/LeetcodePracticing/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Alys9999/LeetcodePracticing/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -45,6 +46,7 @@ All the leetcode problems I solved for practicing, with notes for me.
 ## Binary Tree
 |  |
 | ------- |
+| [0129-sum-root-to-leaf-numbers](https://github.com/Alys9999/LeetcodePracticing/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0222-count-complete-tree-nodes](https://github.com/Alys9999/LeetcodePracticing/tree/master/0222-count-complete-tree-nodes) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Alys9999/LeetcodePracticing/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Alys9999/LeetcodePracticing/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -140,6 +142,7 @@ All the leetcode problems I solved for practicing, with notes for me.
 ## Depth-First Search
 |  |
 | ------- |
+| [0129-sum-root-to-leaf-numbers](https://github.com/Alys9999/LeetcodePracticing/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0207-course-schedule](https://github.com/Alys9999/LeetcodePracticing/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Alys9999/LeetcodePracticing/tree/master/0210-course-schedule-ii) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Alys9999/LeetcodePracticing/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
