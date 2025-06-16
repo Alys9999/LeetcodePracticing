@@ -11,6 +11,7 @@ All the leetcode problems I solved for practicing, with notes for me.
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Alys9999/LeetcodePracticing/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/Alys9999/LeetcodePracticing/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Alys9999/LeetcodePracticing/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Alys9999/LeetcodePracticing/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0654-maximum-binary-tree](https://github.com/Alys9999/LeetcodePracticing/tree/master/0654-maximum-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Alys9999/LeetcodePracticing/tree/master/0662-maximum-width-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Alys9999/LeetcodePracticing/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -57,6 +58,7 @@ All the leetcode problems I solved for practicing, with notes for me.
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Alys9999/LeetcodePracticing/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/Alys9999/LeetcodePracticing/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Alys9999/LeetcodePracticing/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Alys9999/LeetcodePracticing/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0654-maximum-binary-tree](https://github.com/Alys9999/LeetcodePracticing/tree/master/0654-maximum-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Alys9999/LeetcodePracticing/tree/master/0662-maximum-width-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Alys9999/LeetcodePracticing/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -145,6 +147,7 @@ All the leetcode problems I solved for practicing, with notes for me.
 | [0168-excel-sheet-column-title](https://github.com/Alys9999/LeetcodePracticing/tree/master/0168-excel-sheet-column-title) |
 | [0257-binary-tree-paths](https://github.com/Alys9999/LeetcodePracticing/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Alys9999/LeetcodePracticing/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Alys9999/LeetcodePracticing/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/Alys9999/LeetcodePracticing/tree/master/0424-longest-repeating-character-replacement) |
 | [0433-minimum-genetic-mutation](https://github.com/Alys9999/LeetcodePracticing/tree/master/0433-minimum-genetic-mutation) |
 | [0753-open-the-lock](https://github.com/Alys9999/LeetcodePracticing/tree/master/0753-open-the-lock) |
@@ -251,6 +254,7 @@ All the leetcode problems I solved for practicing, with notes for me.
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Alys9999/LeetcodePracticing/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Alys9999/LeetcodePracticing/tree/master/0234-palindrome-linked-list) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Alys9999/LeetcodePracticing/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0654-maximum-binary-tree](https://github.com/Alys9999/LeetcodePracticing/tree/master/0654-maximum-binary-tree) |
 ## Recursion
 |  |
