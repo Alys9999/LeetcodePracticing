@@ -6,8 +6,9 @@
 #         self.right = right
 class Solution:
     def allPossibleFBT(self, n: int) -> List[Optional[TreeNode]]:
+        if n % 2 == 0:
+            return []
         self.memo = {1: [TreeNode()]}
-
         def build(n):
             if n in self.memo:
                 return self.memo[n]
