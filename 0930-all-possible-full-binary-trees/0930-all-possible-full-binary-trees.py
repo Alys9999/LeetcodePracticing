@@ -8,7 +8,6 @@ class Solution:
     def allPossibleFBT(self, n: int) -> List[Optional[TreeNode]]:
         @cache
         def build(n):
-
             if n == 1:
                 return [TreeNode()]
             res = []
