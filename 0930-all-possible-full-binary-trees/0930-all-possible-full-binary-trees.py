@@ -6,8 +6,12 @@
 #         self.right = right
 class Solution:
     def allPossibleFBT(self, n: int) -> List[Optional[TreeNode]]:
-        @cache
+        if n % 2 == 0:
+            return []
+        self.memo = {1: [TreeNode()]}
         def build(n):
+            if n in self.memo:
+                return self.memo[n]
             if n == 1:
                 return [TreeNode()]
             res = []
@@ -21,7 +25,7 @@ class Solution:
                         this.left = l
                         this.right = r
                         res.append(this)
-
+            self.memo[n] = res
             return res
 
         
