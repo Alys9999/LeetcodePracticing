@@ -16,6 +16,7 @@ All the leetcode problems I solved for practicing, with notes for me.
 | [0662-maximum-width-of-binary-tree](https://github.com/Alys9999/LeetcodePracticing/tree/master/0662-maximum-width-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Alys9999/LeetcodePracticing/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Alys9999/LeetcodePracticing/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0930-all-possible-full-binary-trees](https://github.com/Alys9999/LeetcodePracticing/tree/master/0930-all-possible-full-binary-trees) |
 | [0955-complete-binary-tree-inserter](https://github.com/Alys9999/LeetcodePracticing/tree/master/0955-complete-binary-tree-inserter) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/Alys9999/LeetcodePracticing/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Alys9999/LeetcodePracticing/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
@@ -63,6 +64,7 @@ All the leetcode problems I solved for practicing, with notes for me.
 | [0662-maximum-width-of-binary-tree](https://github.com/Alys9999/LeetcodePracticing/tree/master/0662-maximum-width-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Alys9999/LeetcodePracticing/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Alys9999/LeetcodePracticing/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0930-all-possible-full-binary-trees](https://github.com/Alys9999/LeetcodePracticing/tree/master/0930-all-possible-full-binary-trees) |
 | [0955-complete-binary-tree-inserter](https://github.com/Alys9999/LeetcodePracticing/tree/master/0955-complete-binary-tree-inserter) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/Alys9999/LeetcodePracticing/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Alys9999/LeetcodePracticing/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
@@ -108,6 +110,7 @@ All the leetcode problems I solved for practicing, with notes for me.
 | [0264-ugly-number-ii](https://github.com/Alys9999/LeetcodePracticing/tree/master/0264-ugly-number-ii) |
 | [0410-split-array-largest-sum](https://github.com/Alys9999/LeetcodePracticing/tree/master/0410-split-array-largest-sum) |
 | [0787-sliding-puzzle](https://github.com/Alys9999/LeetcodePracticing/tree/master/0787-sliding-puzzle) |
+| [0930-all-possible-full-binary-trees](https://github.com/Alys9999/LeetcodePracticing/tree/master/0930-all-possible-full-binary-trees) |
 ## Backtracking
 |  |
 | ------- |
@@ -119,6 +122,7 @@ All the leetcode problems I solved for practicing, with notes for me.
 |  |
 | ------- |
 | [0787-sliding-puzzle](https://github.com/Alys9999/LeetcodePracticing/tree/master/0787-sliding-puzzle) |
+| [0930-all-possible-full-binary-trees](https://github.com/Alys9999/LeetcodePracticing/tree/master/0930-all-possible-full-binary-trees) |
 ## Matrix
 |  |
 | ------- |
@@ -261,6 +265,7 @@ All the leetcode problems I solved for practicing, with notes for me.
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/Alys9999/LeetcodePracticing/tree/master/0025-reverse-nodes-in-k-group) |
 | [0234-palindrome-linked-list](https://github.com/Alys9999/LeetcodePracticing/tree/master/0234-palindrome-linked-list) |
+| [0930-all-possible-full-binary-trees](https://github.com/Alys9999/LeetcodePracticing/tree/master/0930-all-possible-full-binary-trees) |
 ## Sliding Window
 |  |
 | ------- |
