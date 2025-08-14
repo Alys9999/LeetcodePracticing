@@ -85,6 +85,7 @@ All the leetcode problems I solved for practicing, with notes for me.
 | [0220-contains-duplicate-iii](https://github.com/Alys9999/LeetcodePracticing/tree/master/0220-contains-duplicate-iii) |
 | [0303-range-sum-query-immutable](https://github.com/Alys9999/LeetcodePracticing/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Alys9999/LeetcodePracticing/tree/master/0304-range-sum-query-2d-immutable) |
+| [0347-top-k-frequent-elements](https://github.com/Alys9999/LeetcodePracticing/tree/master/0347-top-k-frequent-elements) |
 | [0370-range-addition](https://github.com/Alys9999/LeetcodePracticing/tree/master/0370-range-addition) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Alys9999/LeetcodePracticing/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Alys9999/LeetcodePracticing/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -137,6 +138,7 @@ All the leetcode problems I solved for practicing, with notes for me.
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Alys9999/LeetcodePracticing/tree/master/0219-contains-duplicate-ii) |
 | [0264-ugly-number-ii](https://github.com/Alys9999/LeetcodePracticing/tree/master/0264-ugly-number-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Alys9999/LeetcodePracticing/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/Alys9999/LeetcodePracticing/tree/master/0424-longest-repeating-character-replacement) |
 | [0433-minimum-genetic-mutation](https://github.com/Alys9999/LeetcodePracticing/tree/master/0433-minimum-genetic-mutation) |
 | [0753-open-the-lock](https://github.com/Alys9999/LeetcodePracticing/tree/master/0753-open-the-lock) |
@@ -229,6 +231,7 @@ All the leetcode problems I solved for practicing, with notes for me.
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/Alys9999/LeetcodePracticing/tree/master/0264-ugly-number-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Alys9999/LeetcodePracticing/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Alys9999/LeetcodePracticing/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Alys9999/LeetcodePracticing/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1184-car-pooling](https://github.com/Alys9999/LeetcodePracticing/tree/master/1184-car-pooling) |
@@ -251,6 +254,7 @@ All the leetcode problems I solved for practicing, with notes for me.
 |  |
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/Alys9999/LeetcodePracticing/tree/master/0220-contains-duplicate-iii) |
+| [0347-top-k-frequent-elements](https://github.com/Alys9999/LeetcodePracticing/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Alys9999/LeetcodePracticing/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1184-car-pooling](https://github.com/Alys9999/LeetcodePracticing/tree/master/1184-car-pooling) |
 ## Stack
@@ -293,6 +297,7 @@ All the leetcode problems I solved for practicing, with notes for me.
 |  |
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/Alys9999/LeetcodePracticing/tree/master/0220-contains-duplicate-iii) |
+| [0347-top-k-frequent-elements](https://github.com/Alys9999/LeetcodePracticing/tree/master/0347-top-k-frequent-elements) |
 ## Ordered Set
 |  |
 | ------- |
@@ -312,6 +317,7 @@ All the leetcode problems I solved for practicing, with notes for me.
 ## Divide and Conquer
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Alys9999/LeetcodePracticing/tree/master/0347-top-k-frequent-elements) |
 | [0654-maximum-binary-tree](https://github.com/Alys9999/LeetcodePracticing/tree/master/0654-maximum-binary-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Alys9999/LeetcodePracticing/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Monotonic Stack
@@ -327,4 +333,12 @@ All the leetcode problems I solved for practicing, with notes for me.
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Alys9999/LeetcodePracticing/tree/master/0222-count-complete-tree-nodes) |
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Alys9999/LeetcodePracticing/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Alys9999/LeetcodePracticing/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Alys9999/LeetcodePracticing/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
