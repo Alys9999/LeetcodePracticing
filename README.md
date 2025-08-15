@@ -73,6 +73,7 @@ All the leetcode problems I solved for practicing, with notes for me.
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Alys9999/LeetcodePracticing/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Alys9999/LeetcodePracticing/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Alys9999/LeetcodePracticing/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Alys9999/LeetcodePracticing/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -149,6 +150,7 @@ All the leetcode problems I solved for practicing, with notes for me.
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Alys9999/LeetcodePracticing/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/Alys9999/LeetcodePracticing/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/Alys9999/LeetcodePracticing/tree/master/0168-excel-sheet-column-title) |
 | [0257-binary-tree-paths](https://github.com/Alys9999/LeetcodePracticing/tree/master/0257-binary-tree-paths) |
@@ -341,4 +343,8 @@ All the leetcode problems I solved for practicing, with notes for me.
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Alys9999/LeetcodePracticing/tree/master/0347-top-k-frequent-elements) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Alys9999/LeetcodePracticing/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
