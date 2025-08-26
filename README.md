@@ -74,6 +74,7 @@ All the leetcode problems I solved for practicing, with notes for me.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Alys9999/LeetcodePracticing/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/Alys9999/LeetcodePracticing/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/Alys9999/LeetcodePracticing/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Alys9999/LeetcodePracticing/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Alys9999/LeetcodePracticing/tree/master/0027-remove-element) |
@@ -248,6 +249,7 @@ All the leetcode problems I solved for practicing, with notes for me.
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Alys9999/LeetcodePracticing/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Alys9999/LeetcodePracticing/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Alys9999/LeetcodePracticing/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Alys9999/LeetcodePracticing/tree/master/0209-minimum-size-subarray-sum) |
@@ -328,6 +330,7 @@ All the leetcode problems I solved for practicing, with notes for me.
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Alys9999/LeetcodePracticing/tree/master/0004-median-of-two-sorted-arrays) |
 | [0347-top-k-frequent-elements](https://github.com/Alys9999/LeetcodePracticing/tree/master/0347-top-k-frequent-elements) |
 | [0654-maximum-binary-tree](https://github.com/Alys9999/LeetcodePracticing/tree/master/0654-maximum-binary-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Alys9999/LeetcodePracticing/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
