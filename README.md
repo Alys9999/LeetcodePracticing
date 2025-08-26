@@ -78,6 +78,7 @@ All the leetcode problems I solved for practicing, with notes for me.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Alys9999/LeetcodePracticing/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Alys9999/LeetcodePracticing/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Alys9999/LeetcodePracticing/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/Alys9999/LeetcodePracticing/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Alys9999/LeetcodePracticing/tree/master/0048-rotate-image) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Alys9999/LeetcodePracticing/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Alys9999/LeetcodePracticing/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -110,6 +111,7 @@ All the leetcode problems I solved for practicing, with notes for me.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Alys9999/LeetcodePracticing/tree/master/0042-trapping-rain-water) |
 | [0264-ugly-number-ii](https://github.com/Alys9999/LeetcodePracticing/tree/master/0264-ugly-number-ii) |
 | [0410-split-array-largest-sum](https://github.com/Alys9999/LeetcodePracticing/tree/master/0410-split-array-largest-sum) |
 | [0787-sliding-puzzle](https://github.com/Alys9999/LeetcodePracticing/tree/master/0787-sliding-puzzle) |
@@ -209,6 +211,7 @@ All the leetcode problems I solved for practicing, with notes for me.
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Alys9999/LeetcodePracticing/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Alys9999/LeetcodePracticing/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/Alys9999/LeetcodePracticing/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Alys9999/LeetcodePracticing/tree/master/0061-rotate-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Alys9999/LeetcodePracticing/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Alys9999/LeetcodePracticing/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
@@ -267,6 +270,7 @@ All the leetcode problems I solved for practicing, with notes for me.
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Alys9999/LeetcodePracticing/tree/master/0042-trapping-rain-water) |
 | [0232-implement-queue-using-stacks](https://github.com/Alys9999/LeetcodePracticing/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Alys9999/LeetcodePracticing/tree/master/0234-palindrome-linked-list) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Alys9999/LeetcodePracticing/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
@@ -330,6 +334,7 @@ All the leetcode problems I solved for practicing, with notes for me.
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Alys9999/LeetcodePracticing/tree/master/0042-trapping-rain-water) |
 | [0654-maximum-binary-tree](https://github.com/Alys9999/LeetcodePracticing/tree/master/0654-maximum-binary-tree) |
 ## Binary Search Tree
 |  |
