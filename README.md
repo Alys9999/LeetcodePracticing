@@ -220,6 +220,7 @@ All the leetcode problems I solved for practicing, with notes for me.
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Alys9999/LeetcodePracticing/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Alys9999/LeetcodePracticing/tree/master/0048-rotate-image) |
 | [0168-excel-sheet-column-title](https://github.com/Alys9999/LeetcodePracticing/tree/master/0168-excel-sheet-column-title) |
 | [0204-count-primes](https://github.com/Alys9999/LeetcodePracticing/tree/master/0204-count-primes) |
