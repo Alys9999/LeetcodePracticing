@@ -14,8 +14,6 @@ class Solution:
         for j in range(n - 1, -1, -1):
             maxi = max(height[j], maxi)
             suffix_max[j] = max(height[j], maxi)
-        print(prefix_max)
-        print(suffix_max)
         res = 0
         for i in range(1, n):
             res += min(prefix_max[i], suffix_max[i]) - height[i]
