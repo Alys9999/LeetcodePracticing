@@ -73,6 +73,7 @@ All the leetcode problems I solved for practicing, with notes for me.
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Alys9999/LeetcodePracticing/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Alys9999/LeetcodePracticing/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Alys9999/LeetcodePracticing/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Alys9999/LeetcodePracticing/tree/master/0027-remove-element) |
@@ -137,6 +138,7 @@ All the leetcode problems I solved for practicing, with notes for me.
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Alys9999/LeetcodePracticing/tree/master/0001-two-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Alys9999/LeetcodePracticing/tree/master/0219-contains-duplicate-ii) |
 | [0264-ugly-number-ii](https://github.com/Alys9999/LeetcodePracticing/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Alys9999/LeetcodePracticing/tree/master/0347-top-k-frequent-elements) |
