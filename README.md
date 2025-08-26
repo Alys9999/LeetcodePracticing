@@ -162,6 +162,7 @@ All the leetcode problems I solved for practicing, with notes for me.
 | [0433-minimum-genetic-mutation](https://github.com/Alys9999/LeetcodePracticing/tree/master/0433-minimum-genetic-mutation) |
 | [0753-open-the-lock](https://github.com/Alys9999/LeetcodePracticing/tree/master/0753-open-the-lock) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/Alys9999/LeetcodePracticing/tree/master/1030-smallest-string-starting-from-leaf) |
+| [1894-merge-strings-alternately](https://github.com/Alys9999/LeetcodePracticing/tree/master/1894-merge-strings-alternately) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -215,6 +216,7 @@ All the leetcode problems I solved for practicing, with notes for me.
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Alys9999/LeetcodePracticing/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/Alys9999/LeetcodePracticing/tree/master/0234-palindrome-linked-list) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/Alys9999/LeetcodePracticing/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
+| [1894-merge-strings-alternately](https://github.com/Alys9999/LeetcodePracticing/tree/master/1894-merge-strings-alternately) |
 ## Math
 |  |
 | ------- |
