@@ -106,6 +106,7 @@ All the leetcode problems I solved for practicing, with notes for me.
 | [1171-shortest-path-in-binary-matrix](https://github.com/Alys9999/LeetcodePracticing/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1184-car-pooling](https://github.com/Alys9999/LeetcodePracticing/tree/master/1184-car-pooling) |
 | [1206-corporate-flight-bookings](https://github.com/Alys9999/LeetcodePracticing/tree/master/1206-corporate-flight-bookings) |
+| [1314-matrix-block-sum](https://github.com/Alys9999/LeetcodePracticing/tree/master/1314-matrix-block-sum) |
 | [1428-jump-game-iii](https://github.com/Alys9999/LeetcodePracticing/tree/master/1428-jump-game-iii) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Alys9999/LeetcodePracticing/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Alys9999/LeetcodePracticing/tree/master/2038-nearest-exit-from-entrance-in-maze) |
@@ -137,6 +138,7 @@ All the leetcode problems I solved for practicing, with notes for me.
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Alys9999/LeetcodePracticing/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0787-sliding-puzzle](https://github.com/Alys9999/LeetcodePracticing/tree/master/0787-sliding-puzzle) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Alys9999/LeetcodePracticing/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1314-matrix-block-sum](https://github.com/Alys9999/LeetcodePracticing/tree/master/1314-matrix-block-sum) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Alys9999/LeetcodePracticing/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 ## Hash Table
 |  |
@@ -305,6 +307,7 @@ All the leetcode problems I solved for practicing, with notes for me.
 | [1046-max-consecutive-ones-iii](https://github.com/Alys9999/LeetcodePracticing/tree/master/1046-max-consecutive-ones-iii) |
 | [1184-car-pooling](https://github.com/Alys9999/LeetcodePracticing/tree/master/1184-car-pooling) |
 | [1206-corporate-flight-bookings](https://github.com/Alys9999/LeetcodePracticing/tree/master/1206-corporate-flight-bookings) |
+| [1314-matrix-block-sum](https://github.com/Alys9999/LeetcodePracticing/tree/master/1314-matrix-block-sum) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Alys9999/LeetcodePracticing/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 ## Bucket Sort
 |  |
