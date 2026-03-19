@@ -8,6 +8,7 @@ All the leetcode problems I solved for practicing, with notes for me.
 | [0129-sum-root-to-leaf-numbers](https://github.com/Alys9999/LeetcodePracticing/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/Alys9999/LeetcodePracticing/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/Alys9999/LeetcodePracticing/tree/master/0222-count-complete-tree-nodes) |
+| [0226-invert-binary-tree](https://github.com/Alys9999/LeetcodePracticing/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Alys9999/LeetcodePracticing/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/Alys9999/LeetcodePracticing/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Alys9999/LeetcodePracticing/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -29,6 +30,7 @@ All the leetcode problems I solved for practicing, with notes for me.
 | [0199-binary-tree-right-side-view](https://github.com/Alys9999/LeetcodePracticing/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/Alys9999/LeetcodePracticing/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Alys9999/LeetcodePracticing/tree/master/0210-course-schedule-ii) |
+| [0226-invert-binary-tree](https://github.com/Alys9999/LeetcodePracticing/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Alys9999/LeetcodePracticing/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/Alys9999/LeetcodePracticing/tree/master/0310-minimum-height-trees) |
 | [0433-minimum-genetic-mutation](https://github.com/Alys9999/LeetcodePracticing/tree/master/0433-minimum-genetic-mutation) |
@@ -57,6 +59,7 @@ All the leetcode problems I solved for practicing, with notes for me.
 | [0129-sum-root-to-leaf-numbers](https://github.com/Alys9999/LeetcodePracticing/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/Alys9999/LeetcodePracticing/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/Alys9999/LeetcodePracticing/tree/master/0222-count-complete-tree-nodes) |
+| [0226-invert-binary-tree](https://github.com/Alys9999/LeetcodePracticing/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Alys9999/LeetcodePracticing/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/Alys9999/LeetcodePracticing/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Alys9999/LeetcodePracticing/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -177,6 +180,7 @@ All the leetcode problems I solved for practicing, with notes for me.
 | [0199-binary-tree-right-side-view](https://github.com/Alys9999/LeetcodePracticing/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/Alys9999/LeetcodePracticing/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Alys9999/LeetcodePracticing/tree/master/0210-course-schedule-ii) |
+| [0226-invert-binary-tree](https://github.com/Alys9999/LeetcodePracticing/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Alys9999/LeetcodePracticing/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/Alys9999/LeetcodePracticing/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Alys9999/LeetcodePracticing/tree/master/0297-serialize-and-deserialize-binary-tree) |
